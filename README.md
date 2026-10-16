@@ -54,6 +54,9 @@
   <a href="mailto:buinovschiislava@gmail.com">
     <img src="https://img.shields.io/badge/Email-buinovschiislava%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://t.me/sudo_runn">
+    <img src="https://img.shields.io/static/v1?label=Telegram&message=%40sudo_runn&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @sudo_runn" />
+  </a>
 </p>
 
 ---
