@@ -1,25 +1,40 @@
-<h1 align="center">Привет! Я Слава Буйновский 👋</h1>
+<h1 align="center">Слава Буйновский</h1>
 
 <p align="center">
-  <strong>Frontend-разработчик</strong> · Angular · TypeScript · RxJS
+  <strong>Frontend-разработчик · Angular · TypeScript · RxJS</strong><br />
+  Создаю понятные интерфейсы и разбираюсь в сложных формах и потоках данных.
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=680&lines=Angular+%E2%80%A2+TypeScript+%E2%80%A2+RxJS;Reactive+Forms+%E2%80%A2+REST+API+%E2%80%A2+WebSocket;Growing+towards+fullstack+development"
-    alt="Frontend Developer — Angular, TypeScript and RxJS"
-  />
+  <img src="https://img.shields.io/badge/Open_to-Internship_%2F_Junior-22C55E?style=for-the-badge" alt="Open to Internship and Junior roles" />
+  <a href="mailto:buinovschiislava@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/sudo_runn">
+    <img src="https://img.shields.io/badge/Telegram-%40sudo__runn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @sudo_runn" />
+  </a>
 </p>
 
-## Обо мне
+<p align="center"><sub>Москва · рассматриваю стажировку и Junior-позиции во frontend-разработке</sub></p>
+
+## Коротко обо мне
 
 - 🎓 Студент 4 курса **МТУСИ**, направление — информационные технологии.
 - 💼 Проходил стажировку в команде существующего Angular-проекта.
-- 🧩 Работал с динамическими формами, таблицами, локализацией, RxJS и типизацией.
-- 🌱 Углубляю знания Angular и развиваюсь в сторону fullstack-разработки с Java / Spring Boot.
-- 📍 Москва · открыт к стажировкам и Junior-позициям во frontend-разработке.
+- 🌱 Углубляю Angular и постепенно развиваюсь в сторону fullstack с Java / Spring Boot.
 
-## Технологии
+## Что умею
+
+- разрабатывать и дорабатывать интерфейсы на **Angular и TypeScript**;
+- настраивать динамические формы **Angular Formly**, таблицы и локализацию;
+- работать с потоками данных в **RxJS** и интеграцией с REST API;
+- диагностировать проблемы типизации, Observable и сборки проекта.
+
+## Стек
+
+**Основной:** Angular · TypeScript · JavaScript · RxJS · HTML · CSS / SCSS · Git
+
+**Дополнительно:** Java · Spring Boot · PostgreSQL · Redis · Docker · Python · Flutter · Linux
 
 <p align="center">
   <img
@@ -28,39 +43,27 @@
   />
 </p>
 
-## Сейчас в фокусе
-
-- архитектура и компонентный подход в Angular;
-- реактивные формы и работа с потоками данных в RxJS;
-- интеграция frontend с REST API и WebSocket;
-- подготовка первых публичных pet-проектов для портфолио.
-
 ## Опыт
 
-<details>
-  <summary><strong>Стажёр-разработчик · Сорб Инжиниринг · июнь — июль 2026</strong></summary>
-  <br />
+### Стажёр-разработчик · Сорб Инжиниринг
+
+`июнь — июль 2026`
 
 - дорабатывал интерфейс существующего веб-приложения на Angular и TypeScript;
 - настраивал динамические формы Angular Formly, таблицы, локализацию и привязку данных;
 - диагностировал проблемы типизации, Observable / RxJS и сборки;
 - готовил обработку JSON-данных с использованием Pandas, Matplotlib, Jupyter Notebook и SQL.
 
-</details>
+## Сейчас углубляю
 
-## Связаться со мной
-
-<p>
-  <a href="mailto:buinovschiislava@gmail.com">
-    <img src="https://img.shields.io/badge/Email-buinovschiislava%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/sudo_runn">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=%40sudo_runn&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @sudo_runn" />
-  </a>
-</p>
+- архитектуру и компонентный подход в Angular;
+- реактивные формы и проектирование потоков данных в RxJS;
+- интеграцию frontend с REST API и WebSocket;
+- тестирование и документирование приложений.
 
 ---
 
 <p align="center">
-  <em>Профиль постепенно пополняется — скоро здесь появятся первые публичные проекты.</em>
+  <a href="mailto:buinovschiislava@gmail.com">Email</a> ·
+  <a href="https://t.me/sudo_runn">Telegram</a>
 </p>
