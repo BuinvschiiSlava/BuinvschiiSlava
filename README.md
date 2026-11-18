@@ -1,4 +1,4 @@
-<h1 align="center">Слава Буйновский</h1>
+<h1 align="center">Вячеслав Буйновский</h1>
 
 <p align="center">
   <strong>Frontend-разработчик · Angular · TypeScript · RxJS</strong><br />
