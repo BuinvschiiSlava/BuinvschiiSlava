@@ -25,10 +25,11 @@
   Москва · открыт к стажировке и Junior-позициям
 </p>
 
-### Сейчас в работе
+### Избранные проекты
 
 - [FormFlow Studio](https://github.com/BuinvschiiSlava/formflow-studio) — конструктор динамических форм.
 - [Traffic Filter Lab](https://github.com/BuinvschiiSlava/traffic-filter-lab) — сегментация Docker-сетей и фильтрация трафика.
+- [Созыв Ops](https://github.com/BuinvschiiSlava/sozyv-ops) — мониторинг, проверяемые backup и диагностика корпоративного мессенджера.
 
 <p align="center">
   <a href="https://t.me/sudo_runn">Telegram @sudo_runn</a> ·
