@@ -28,8 +28,9 @@
 ### Избранные проекты
 
 - [FormFlow Studio](https://github.com/BuinvschiiSlava/formflow-studio) — конструктор динамических форм.
+- [Windows AD Lab](https://github.com/BuinvschiiSlava/windows-ad-lab) — Hyper-V, Active Directory, DNS, DHCP, GPO и Zabbix.
 - [Traffic Filter Lab](https://github.com/BuinvschiiSlava/traffic-filter-lab) — сегментация Docker-сетей и фильтрация трафика.
-- [Созыв Ops](https://github.com/BuinvschiiSlava/sozyv-ops) — мониторинг, проверяемые backup и диагностика корпоративного мессенджера.
+- [Созыв Ops](https://github.com/BuinvschiiSlava/sozyv-ops) — мониторинг, проверяемые резервные копии и диагностика корпоративного мессенджера.
 
 <p align="center">
   <a href="https://t.me/sudo_runn">Telegram @sudo_runn</a> ·
